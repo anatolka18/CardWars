@@ -15,5 +15,5 @@ MonoBehaviour:
   - Tutorial
   - Scenes
   - Menu
-  useSystemLanguagePerDefault: 1
-  defaultLangCode: EN
+  useSystemLanguagePerDefault: false
+  defaultLangCode: RU

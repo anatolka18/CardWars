@@ -1,0 +1,594 @@
+<entries>
+<entry name="!!Sidequest_Toobs_01">Трубки! Трубки! Все наши Трубки испугались и разбежались. Пожалуйста, помоги нам найти наши 32 Трубки!</entry>
+<entry name="!!Sidequest_Fezz_01">Помогите! Тут только что пробежал какой-то псих в прихватке. Он унёс мои шляпы. Сколько шляп? Их было 16. Если вернёшь мои шляпы, я дам тебе классную награду.</entry>
+<entry name="!!I_0_INFOBAR_HOLIDAY">Каждый день получай бесплатный подарок из «Праздничной Коробки»!</entry>
+<entry name="!!FC_EL_FISTO_COMPLETE">Ты победил. Держи мою драгоценную редкую карту. С Эль Фисто покончено.</entry>
+<entry name="!!F_LEADERBOARDS_WINS">Выиграно войн:</entry>
+<entry name="!!C_0_CARDBOX">Карточная Коробка</entry>
+<entry name="!!E_3_BUTTONFUSE">Создать</entry>
+<entry name="!!D_3_CURRENTMAX">Текущее место:</entry>
+<entry name="!!SUB_RARE"></entry>
+<entry name="!!Sidequest_Marceline2_01">Готов к ещё одному? Этот малыш поизбирательнее, его нужно выставить в матче, и матч нужно выиграть, чтобы это засчиталось. Верни мне карту после 20 боёв. Как и в прошлый раз, у тебя есть время до конца Хэллоуинского События. Не успеешь — карта Вампира навсегда останется в своём сонном состоянии.</entry>
+<entry name="!!Sidequest_Marceline2_02">Ого, как быстро. Давай сюда, посмотрим, как продвинулся этот малыш.
+ Впечатляет! Он полностью проснулся и достиг максимума потенциала. Впечатляет!
+ Представляю тебе легендарную, потрясающую карту ЧУПАМАИЗ! Счастливого Хэллоуина</entry>
+<entry name="!!Sidequest_Marceline2_03">О нет. Ты не смог разбудить малыша вовремя. Вот обидка-то.
+ Я навсегда останусь в своём сонном состоянии. Ну ладно, надеюсь, Хэллоуин тебе хотя бы понравился!</entry>
+<entry name="!!F_4_TOPPLAYERSRECEIVE">Лучшие Игроки Получают</entry>
+<entry name="!!G_ONLINE_STATUS">Твой прогресс не доходит до сервера. Попытаться починить соединение с сервером?</entry>
+<entry name="!!BUTTON_BATTLEWHEEL">Боевое Колесо</entry>
+<entry name="!!C_0_SELLCARDS">Продать Карты</entry>
+<entry name="!!A_3_REDEEMCODE">Активировать Код</entry>
+<entry name="!!A_8_VERSION">Версия: &lt;Val&gt;</entry>
+<entry name="!!ATTACK">АТАКА</entry>
+<entry name="!!D_3_CARDBOX_INVENTORY_UPDATED">Теперь инвентарь: {0}!</entry>
+<entry name="!!Saturday_Dungeon_Info">Сегодня День 2x Монет!</entry>
+<entry name="!!TAP_CREATURE_TO_ATTACK">Нажми на существо, чтобы атаковать!</entry>
+<entry name="!!BUTTON_SAVE_SERVER">Использовать Данные Сервера</entry>
+<entry name="!!Wednesday_Dungeon_Info">Твои Болотные Карты здесь!</entry>
+<entry name="!!DAILY_GIFT_KEY">Ключ</entry>
+<entry name="!!BUTTON_ON">ВКЛ</entry>
+<entry name="!!SUB_NEW_LEADER_CARD"></entry>
+<entry name="!!ERROR_SERVERDOWNFORMAINTENANCE">Серверы Card Wars сейчас на техобслуживании.
+
+Приносим извинения за неудобства. Заходи позже!</entry>
+<entry name="!!SAVE_SUCCESS">Сохранение
+Успешно</entry>
+<entry name="!!LANDSCAPE_CORN">Кукурузные Поля</entry>
+<entry name="!!LEVEL">Уровень</entry>
+<entry name="!!A_4_CN">Cartoon Network</entry>
+<entry name="!!I_1_DAILYGIFT_HALLOWEEN">Подарок «Кошелек или Жизнь»</entry>
+<entry name="!!D_3_CARDBOX_NOT_ENOUGH_COINS">Недостаточно монет!</entry>
+<entry name="!!A_5_REDEEMSUCCESS">Карта Открыта!</entry>
+<entry name="!!C_1_INFOBAR">Здесь можно создавать новые карты, собирать колоды и управлять своими картами!</entry>
+<entry name="!!ERROR_REQUIRESINTERNETCONNECTION">Для игры в Card Wars нужно подключение к интернету.
+
+Перезапусти игру, когда подключишься к сети</entry>
+<entry name="!!A_8_SERVER">Сервер: &lt;Val&gt;</entry>
+<entry name="!!PICK_A_SACRIFICE">Выбери жертву.</entry>
+<entry name="!!RESTART_FC_DEMO">Перезапустить Демо</entry>
+<entry name="!!BUTTON_RESTOREPURCHASES">Восстановить Покупки</entry>
+<entry name="!!A_1_MUSICCONTROL">МУЗЫКА</entry>
+<entry name="!!F_2_TUTORIALINCOMPLETE">Шмоузов! Тебе надо пройти обучение, прежде чем стать звёздным сетевым бойцом.</entry>
+<entry name="!!BUTTON_SAVE_LOCAL">Использовать Локальные Данные</entry>
+<entry name="!!A_8_USERINFO">Информация о Пользователе</entry>
+<entry name="!!A_1_NOTIFICATIONS">Уведомления</entry>
+<entry name="!!A_4_CUSTOMERSERVICE">Служба Поддержки</entry>
+<entry name="!!INSTRUCTIONLABEL_P1BATTLE">Фаза Боя Игрока 1!</entry>
+<entry name="!!GOT_ALL_THREE_STARS">Отличная работа! Ты уже получил все три звезды.</entry>
+<entry name="!!D_3_MAXINVENTORY">БОЛЬШЕ КАРТ</entry>
+<entry name="!!F_4_TOP25">Топ 25</entry>
+<entry name="!!F_4_TOP1">Игрок №1</entry>
+<entry name="!!F_4_TOP5">Топ 5</entry>
+<entry name="!!E_0_SCREENNAME">СУНДУКИ</entry>
+<entry name="!!CLOUD_LOAD_SUCCESS">Успешно загружено из облака.</entry>
+<entry name="!!F_4_RANK11_25">#11 - #25</entry>
+<entry name="!!PATCHING_RESTART">Доступен новый контент — нажми, чтобы перезагрузить!</entry>
+<entry name="!!CONFIRM_GOOGLEPLAYCONNECT">Хочешь подключиться к Google Play?</entry>
+<entry name="!!A_0_INFOBAR">Ты уже давно играешь. Почему бы не сделать перерыв?</entry>
+<entry name="!!CONFIRM_OVERWRITE_CLOUD_SAVE">В облаке может храниться только одно сохранение. Хочешь перезаписать существующее?</entry>
+<entry name="!!Wednesday Dungeon">Подземелье Чудаков</entry>
+<entry name="!!1A_ACCEPT_POLICIES">Используя эту игру, ты соглашаешься с Условиями Использования и Политикой Конфиденциальности.</entry>
+<entry name="!!FC_EL_FISTO_NEW_CHALLENGER">РЕВАНШ ЭЛЬ ФИСТО</entry>
+<entry name="!!A_4_TOU">Условия Использования</entry>
+<entry name="!!PARTY_DESC_OBSIDIAN">Ограниченное время Чёрные Карты доступны в Алгебраическом Сундуке.</entry>
+<entry name="!!SALE">Распродажа!</entry>
+<entry name="!!PARTY_HEADER_RARE">Карнавал Редких Карт УЖЕ ИДЁТ!</entry>
+<entry name="!!A_8_USERID">UserID: &lt;Val&gt;</entry>
+<entry name="!!FORMAT_DOWNLOADING_ASSETS">Загрузка ресурсов...
+({0}% выполнено)</entry>
+<entry name="!!I_8_NOTENOUGHGEMS">У тебя нет магических кристаллов!
+Направляемся в Магазин Магических Кристаллов...</entry>
+<entry name="!!F_4_PRIZELEVELS">ВОЙНЫ КОЛОД — УРОВНИ ПРИЗОВ</entry>
+<entry name="!!CARD_FLOOPCOST">ФЛУП (&lt;cost&gt; Магии)</entry>
+<entry name="!!SAVE_TO_CLOUD">Сохранить в Облако</entry>
+<entry name="!!INSTRUCTIONLABEL_P1SETUP">Фаза Подготовки Игрока 1!</entry>
+<entry name="!!ERROR_SELLING_TOO_MANY_CREATURES">Продажа этих карт оставит тебе меньше {0} существ в инвентаре.</entry>
+<entry name="!!F_4_RANK51_100">#51 - #100</entry>
+<entry name="!!A_4_MORECN">Больше Cartoon Network</entry>
+<entry name="!!LANDSCAPE_TYPE">ТИП ЛАНДШАФТА</entry>
+<entry name="!!FORMAT_DECK_CAN_ONLY_HOLD">Колода {0}, {1} вмещает только {2} карт в колоде</entry>
+<entry name="!!INSTRUCTIONLABEL_P2SETUP">Фаза Подготовки Игрока 2!</entry>
+<entry name="!!BUTTON_DONTQUIT_CAPS">НЕ
+ВЫХОДИТЬ</entry>
+<entry name="!!Sidequest_Marceline_02">Уже вернулся? Видно, было не так сложно, как я думала. Ну, дай посмотреть.
+ Ништяк! Он пробудился на полную мощность! Поздравляю, ты получил карту БАЛДФЕРАТУ! Счастливого Хэллоуина!</entry>
+<entry name="!!PARTY_EXPIRATION_DATE">Вечеринка идёт до {0}</entry>
+<entry name="!!FORMAT_DECK_CONTAINS_LESS_THAN">В колоде {0} меньше {1} карт. Отредактируй колоду, чтобы добавить ещё.</entry>
+<entry name="!!F_4_RANK26_50">#26 - #50</entry>
+<entry name="!!F_0_FREEDEMO">ИГРАТЬ ДЕМО!</entry>
+<entry name="!!Sidequest_Newt_01">Оказывается, нельзя просто так ходить и воровать БОТЫ. Так что ты соберёшь БОТЫ для меня, а что с этого будет тебе? Ну конечно награда. А теперь давай, вперёд. Принеси мне БОТЫ!</entry>
+<entry name="!!Sidequest_Newt_02">БОТЫ! БОТЫ! Они мне нужны. Держи эту карту и оставь меня с моими новыми БОТАМИ.</entry>
+<entry name="!!PARTY_DESC_LEADER">Шанс выпадения Карт Героев в Алгебраическом Сундуке увеличен в 10 раз.
+[FFEA00]Сюда входят БМО, Принцесса Лампи, Граф Лемонгрейб, Рикардио, Хунсон Абадир, Гюнтер и Эш.</entry>
+<entry name="!!FORMAT_OLD_USER">Ты вошёл как {0}. Все достижения, позиции, прогресс и покупки будут привязаны к этому профилю.</entry>
+<entry name="!!A_1_RESOLUTION_HIGH">Высокое</entry>
+<entry name="!!Tree_Trunks_01">О, привет-ка. Подойди ближе. Не стесняйся. У меня для тебя кое-что особенное. Эта маленькая радужная карта может эволюционировать в более сильную карту. Всё, что нужно, — играть и побеждать с ней 31 раз. Тот тип местности, где ты выставляешь её чаще всего, и определит, в какую фракцию она эволюционирует. ПОМНИ, нужно закончить до конца Праздничного События, иначе она навсегда останется радужной. Удачных приключений!</entry>
+<entry name="!!Tree_Trunks_02">О боже, гляньте-ка кто пришёл. Не ожидала, что ты вернёшься так скоро. Дай взглянуть?
+ Ты только посмотри? Такая красавица-карта, и совсем выросла.
+ Держи, береги её. Пусть у вас будет много-много совместных приключений, и счастливых праздников.</entry>
+<entry name="!!Tree_Trunks_03">О нет, это нехорошо. Совсем нехорошо. Бедняжка так и не раскрыл свой полный потенциал.
+ Что это? Он хочет остаться с тобой, ну ладно, пусть. Вы двое будьте добры друг к другу.</entry>
+<entry name="!!F_4_TOP100">Все</entry>
+<entry name="!!F_4_HOWTOPLAYDECKWARS">Как играть в Войны Колод</entry>
+<entry name="!!PARTY_DESC_CORN">Шанс выпадения Кукурузных карт в Алгебраическом Сундуке увеличен в 5 раз.
+[FFEA00]В подборке: Кукурузотавр, Кукурузный Лорд, Кукурузный Ронин, Полевой Жнец, Полевой Сталкер, Хаскер-Гигант и другие</entry>
+<entry name="!!DUNGEON_LEVELREQUIREMENT">Твой Лидер недостаточно крутого уровня, чтобы входить в Подземелья! Нужен лидер 5 уровня или выше.</entry>
+<entry name="!!7_TOURNAMENTREWARDMESSAGE">[FFFF00]Поздравляю! Ты протёр носы соперников об пол в турнире, доказав свою супер-крутость.
+[FFFFFF]Тебе выдали награды, зацени!</entry>
+<entry name="!!SAVE_FAIL">Нет Серверного
+Сохранения</entry>
+<entry name="!!FORMAT_RESPONSE_DATA">Данные Ответа: {0}</entry>
+<entry name="!!LANDSCAPE_SANDYLAND">Песчаные Земли</entry>
+<entry name="!!A_4_PRIVACY">Конфиденциальность</entry>
+<entry name="!!SURRENDER_Q12_HEADER">Сдаться?</entry>
+<entry name="!!Sidequest_MarshallLee_03">Что стряслось? Время вышло. Немного обидно, да? Совсем не тот результат, что я ожидал. Полагаю, ты старался как мог, в другой раз повезёт.</entry>
+<entry name="!!MISSING_QUEST">* ПРОПАВШИЙ КВЕСТ *</entry>
+<entry name="!!KEYS_OWNED">Ключей Во Владении</entry>
+<entry name="!!A_1_RESOLUTION">Разрешение</entry>
+<entry name="!!C_0_CRAFTCARDS">Создать Карты</entry>
+<entry name="!!1B_TOU">Условия Использования</entry>
+<entry name="!!D_0_INFOBAR">Покупай Кристаллы, место в инвентаре и пополняй Энергию Сердец</entry>
+<entry name="!!D_0_INVENTORY">Увеличить
+Инвентарь</entry>
+<entry name="!!SUB_OUT_OF_CARDS"></entry>
+<entry name="!!DEFEAT">Поражение</entry>
+<entry name="!!I_2_AREYOUSURE">Ты уверен, что хочешь потратить &lt;Val1&gt; кристалл(ов), чтобы сходить ещё раз?</entry>
+<entry name="!!I_6_CALENDARREWARD_JAKE_XMAS_SWEATER">Праздничный свитер Джейка!
+Он Тёплый и Пушистый!
+Примерь сейчас! После праздников его снова уберут в шкаф!!!</entry>
+<entry name="!!FORMAT_TEST_RESULT">Результат теста : {0}</entry>
+<entry name="!!F_0_SINGLEPLAYER">Квесты</entry>
+<entry name="!!E_2_INFOBAR">Нажми, чтобы открыть свой приз!</entry>
+<entry name="!!I_4_DUNGEON">Ежедневные Подземелья Рока</entry>
+<entry name="!!DAILY_GIFT_COINS">Монеты!</entry>
+<entry name="!!CONFIRM_CLOUD_LOAD">Весь прогресс текущего сохранения будет перезаписан облачным. Продолжить?</entry>
+<entry name="!!D_2_INFOBAR__AMAZON">Наборы кристаллов стоят реальные деньги, покупки будут списаны с твоего аккаунта Amazon</entry>
+<entry name="!!FORMAT_SELL_CARDS_FOR_X_COINS">Продать эти карты за {0} монет?</entry>
+<entry name="!!ERROR_CONNECTIVITYCONTROLLER2
+">Undetermined NAT capabilities</entry>
+<entry name="!!MAGIC_COST">СТОИМОСТЬ МАГИИ</entry>
+<entry name="!!NOTIFY_FULL_HEART">Шмоузов! Твои сердечки теперь полны, возвращайся и рубись в Card Wars!</entry>
+<entry name="!!ERROR_CONNECTIVITYCONTROLLER10">Ошибка в процедуре теста, получено {0}</entry>
+<entry name="!!ERROR_CONNECTIVITYCONTROLLER11">При запуске сервера должна быть включена функция NAT punchthrough (параметр useNat)</entry>
+<entry name="!!ERROR_CONNECTIVITYCONTROLLER12">NAT punchthrough не требуется</entry>
+<entry name="!!FORMAT_PLAYER_GOES_FIRST">{0} ходит первым!</entry>
+<entry name="!!ERROR_CONNECTIVITYCONTROLLER7">Ограниченные возможности NAT punchthrough. Нельзя подключиться ко всем типам NAT-серверов. Запускать сервер нежелательно — не все смогут подключиться.</entry>
+<entry name="!!GEMS">Кристаллы</entry>
+<entry name="!!A_0_SCREENNAME">НАСТРОЙКИ</entry>
+<entry name="!!TAP_CREATURE_TO_BLOCK_FLOOP">Нажми на существо, чтобы блокировать Флуп!</entry>
+<entry name="!!CARDS_WON">Выиграно Карт:</entry>
+<entry name="!!KEY_TUTORIAL">Ты получил ПРАЗДНИЧНЫЙ КЛЮЧ
+
+
+Используй его на Праздничном Сундуке для особого сюрприза-подарка!</entry>
+<entry name="!!ERROR_APPLICATIONOUTOFDATE">Твоё приложение устарело!
+
+Обнови Card Wars до последней версии        
+</entry>
+<entry name="!!DAILY_GIFT_HEARTS">Сердечки!</entry>
+<entry name="!!DECK_SORT_BUTTON_TEXT">Стоимость Магии</entry>
+<entry name="!!AREA_INDEX">Уровень</entry>
+<entry name="!!CONNECTIVITYCONTROLLER_DONETESTING">Проверка завершена</entry>
+<entry name="Party Messages"></entry>
+<entry name="!!D_3_OK">ОК</entry>
+<entry name="!!F_4_TOP50">Топ 50</entry>
+<entry name="!!A_0_AUDIO">Настройки</entry>
+<entry name="!!D_2_SCREENNAME">МАГАЗИН</entry>
+<entry name="!!F_LEADERBOARDS_LOSSES">Проиграно войн:</entry>
+<entry name="!!YOU_ARE_NOT_RANKED">ты вне рейтинга</entry>
+<entry name="!!D_0_RESTORESTAMINA">Восстановить Энергию</entry>
+<entry name="!!D_2_INFOBAR__GOOGLE">Наборы кристаллов стоят реальные деньги, покупки будут списаны с твоего аккаунта Google</entry>
+<entry name="!!F_4_TAB_YOURRANK">Турнир</entry>
+<entry name="!!PVP_SEARCHING">Ищем другого Воина, достойного твоего мастерства и крутости...</entry>
+<entry name="!!BUILDING">Здание</entry>
+<entry name="!!D_2_INFOBAR">Наборы кристаллов стоят реальные деньги, покупки будут списаны с твоего аккаунта iTunes</entry>
+<entry name="!!FORMAT_WELCOME_BACK">С возвращением, {0}!</entry>
+<entry name="!!DEFENSE">ЗАЩИТА</entry>
+<entry name="!!LOSSES">Поражения:</entry>
+<entry name="!!Sidequest_VDay_02">Превосходно! Принцессы! Столько Принцесс! Спасибо! Это тебе, супер-ультра-редкая карта Плохая Роза. Круто, да? Бери и иди. Иди уже! Время свиданий, а тебя не приглашали.</entry>
+<entry name="!!LANDSCAPE_PLAINS">Синие Равнины</entry>
+<entry name="!!Sidequest_Marceline_03">О нет. Ты не смог разбудить малыша вовремя. Вот обидка-то.
+ Я навсегда останусь в своём сонном состоянии. Ну ладно, надеюсь, Хэллоуин тебе хотя бы понравился!</entry>
+<entry name="!!I_TOO_MANY_CARDS">У тебя слишком много карт в инвентаре! Продай или создай карты, чтобы избавиться от лишних.</entry>
+<entry name="!!F5_NOT_ENOUGH_COINS">Возвращайся, когда будет больше золота! Иди сражайся в одиночной игре</entry>
+<entry name="!!SUB_WIN"></entry>
+<entry name="!!RATE_ME_NOW_MESSAGE">Лучшая игра, я прав?! Поставь нам оценку!</entry>
+<entry name="!!BUY_NOW">КУПИТЬ СЕЙЧАС!</entry>
+<entry name="!!E_0_CHRISTMASCHEST">Праздничный Сундук</entry>
+<entry name="!!PARTY_DESC_NICELANDS">Шанс выпадения карт Прекрасных Земель в Алгебраическом Сундуке увеличен в 5 раз.
+[FFEA00]В подборке: Пёс-Парень, Фермер Том, Сержант Гриб, Добрый Чудесный Король, Пухопехота, Корова и другие</entry>
+<entry name="!!F_0_LEADERBOARDS">Таблица Лидеров</entry>
+<entry name="!!Chad_Bear_02">Ого! Мои КОНЬКИ! Ты нашёл мои КОНЬКИ!
+ Вот что значит командная работа!
+ И как обещал, моя ультра-редкая карта!
+ Я пошёл делать хет-трик, оставайся крутым!</entry>
+<entry name="!!C_1_SCREENNAME">КОЛОДА</entry>
+<entry name="!!PARTY_DESC_GOLD">Шанс выпадения Золотых Существ в Алгебраическом Сундуке увеличен в 3 раза. [FFEA00]В подборке: Пухопехота, Бессмертный Кукурузоход, Затерянный Голем, Радужный Блевун и другие. </entry>
+<entry name="!!F_3_INVALID_NAME">Недопустимое имя! Попробуй другое</entry>
+<entry name="!!WIN">Победа</entry>
+<entry name="!!A_1_SFX">ЗВУКИ</entry>
+<entry name="!!PARTY_HEADER_LEADER">Карнавал Карт Героев УЖЕ ИДЁТ!</entry>
+<entry name="!!TAP_CREATURE_TO_HEAL">Нажми на существо, чтобы исцелить его!</entry>
+<entry name="!!SUB_LOSE"></entry>
+<entry name="!!WIN_STREAK_SHOUTOUT">Ты только что выиграл дополнительные трофеи, боец!</entry>
+<entry name="!!TOURNAMENT_NAME_05">Турнир Чёрных Карт</entry>
+<entry name="!!OK">ОК</entry>
+<entry name="!!DISCARD_PILE_OPPONENT">Сброс Противника</entry>
+<entry name="!!Sidequest_Legg_02">Ты нашёл их!! О спасибо! Спасибо! Я снова могу бегать! Пожалуйста, возьми эту карту как награду.</entry>
+<entry name="!!F_4_ENDSIN">Заканчивается Через</entry>
+<entry name="!!LOAD_FROM_CLOUD">Загрузить из Облака</entry>
+<entry name="!!ERROR_DOWNLOADING_ASSETS">Ошибка загрузки ресурсов</entry>
+<entry name="!!A_0_CREDITS">Титры</entry>
+<entry name="!!F_0_MULTIPLAYER">Войны Колод</entry>
+<entry name="!!SUB_OPP_TURN"></entry>
+<entry name="!!SUB_VERY"></entry>
+<entry name="!!7_TOURNAMENTREWARD_3">За достижение ранга &lt;val1&gt; в турнире ты выиграл &lt;val2&gt; [ff0000]Кристаллов[ffffff]!</entry>
+<entry name="!!FORMAT_QUEST">Квест {0}</entry>
+<entry name="!!PARTY_HEADER_HALLOWEEN">Фестиваль Хэллоуина УЖЕ ИДЁТ!</entry>
+<entry name="!!I_1_DAILYGIFT_HOLIDAY">Праздничный Подарок</entry>
+<entry name="!!Sidequest_Toobs_02">Наши драгоценные Трубки! Ты вернул каждую нашу Трубка. Огромное спасибо. Пожалуйста, возьми эту карту как награду. Трубки!</entry>
+<entry name="!!BUTTON_QUIT_CAPS">ВЫЙТИ</entry>
+<entry name="!!FORMAT_TICKER_TOURNAMENT">{0} теперь открыт на следующие {1}! Поднимайся в рейтинге за лучшим лутом! Заработай больше всех трофеев за лучший лут!</entry>
+<entry name="!!SURRENDER_Q12_DESC">Ого! Ты правда собираешься сдаться и стать ботаном? Нас победят!</entry>
+<entry name="!!PARTY_DESC_PLAINS">Шанс выпадения карт Равнин в Алгебраическом Сундуке увеличен в 5 раз
+[FFEA00]В подборке: Драконолап, Воадик-Мародёр, Панк-Кот, Неловкий Бард, Духовный Солдат XL и другие</entry>
+<entry name="!!SUB_YOUR_TURN"></entry>
+<entry name="!!ERROR_CONNECTIVITYCONTROLLER1">Проблема с определением возможностей NAT</entry>
+<entry name="!!ERROR_CONNECTIVITYCONTROLLER3">Публичный IP-адрес с прямым подключением.</entry>
+<entry name="!!ERROR_CONNECTIVITYCONTROLLER4">Неподключаемый публичный IP-адрес (порт {0} заблокирован), запуск сервера невозможен.</entry>
+<entry name="!!ERROR_CONNECTIVITYCONTROLLER5">Проверка, можно ли обойти блокировку публичного IP</entry>
+<entry name="!!ERROR_CONNECTIVITYCONTROLLER6">Публичный IP-адрес, но сервер не инициализирован, его нужно запустить, чтобы проверить доступность. Перезапусти проверку соединения, когда будешь готов.</entry>
+<entry name="!!FORMAT_QUESTDECKSCRIPT">Колода {0}</entry>
+<entry name="!!ERROR_CONNECTIVITYCONTROLLER8">Ограниченные возможности NAT punchthrough. Нельзя подключиться ко всем типам NAT-серверов. Запускать сервер нежелательно — не все смогут подключиться.</entry>
+<entry name="!!ERROR_CONNECTIVITYCONTROLLER9">NAT punchthrough доступен. Можно подключаться ко всем серверам и принимать соединения от всех клиентов. Включаем функцию NAT punchthrough.</entry>
+<entry name="!!CONFIRM_GATCHACHOOSECHEST_COINS_NORMAL">Всего {0} монет, чтобы открыть сундук {1}! Отличный шанс получить редкую карту! Открыть?</entry>
+<entry name="!!ERROR_PURCHASE_FAILED_RESULT_INVALID">Покупка не удалась, результат недействителен</entry>
+<entry name="!!6_NOTIFICATIONS_CURRENT_RANK_FORMAT">Твой текущий ранг в Войнах Колод: #{0}</entry>
+<entry name="!!D_0_SCREENNAME">МАГАЗИН</entry>
+<entry name="!!D_5_DESC2">Использовать 1 кристалл, чтобы полностью восстановить Энергию</entry>
+<entry name="!!E_3_BUTTONSELL">Продать</entry>
+<entry name="!!D_3_CARDBOX_PURCHASE_PROMPT">Увеличить место в коробке на {0}</entry>
+<entry name="!!Sidequest_PartyGod_02">А? О, привет, ты нашёл ЛЁД. Отличная работа, без ЛЬДА вечеринка не вечеринка. Вот твоё приглашение, я написал его на обороте карты. Бежать надо, рокуй!</entry>
+<entry name="!!PARTY_DESC_SWAMP">Шанс выпадения Болотных Карт в Алгебраическом Сундуке увеличен в 5 раз
+[FFEA00]В подборке: Др. Смерть, Мама-Паучиха, Тёмный Ангел, Красный Глазёнок, Дерево Пучины и другие</entry>
+<entry name="!!ERROR_GATCHACHOOSECHEST_COINS">Всего {0} монет, чтобы открыть. Рискнём?</entry>
+<entry name="!!TOURNAMENT_NAME_01">Турнир Чёрных Карт</entry>
+<entry name="!!TOURNAMENT_NAME_02">Турнир Чёрных Карт</entry>
+<entry name="!!TOURNAMENT_NAME_03">Турнир Чёрных Карт</entry>
+<entry name="!!TOURNAMENT_NAME_04">Турнир Чёрных Карт</entry>
+<entry name="!!E_0_NORMALCHEST">Крутой
+Сундук</entry>
+<entry name="!!TOURNAMENT_NAME_06">Турнир Чёрных Карт</entry>
+<entry name="!!TOURNAMENT_NAME_07">Турнир Чёрных Карт</entry>
+<entry name="!!TOURNAMENT_NAME_08">Турнир Чёрных Карт</entry>
+<entry name="!!TOURNAMENT_NAME_09">Турнир Чёрных Карт</entry>
+<entry name="!!HERO">Герой</entry>
+<entry name="!!F_3_MYNAME_IS">Меня зовут</entry>
+<entry name="!!CONFIRM_CLOUD_SAVE">Ты точно хочешь сохранить игру в облако?</entry>
+<entry name="!!PVP_TROPHIES">Трофеи</entry>
+<entry name="!!TIP_Battle_End_Header">СОВЕТ ОТ ДЖЕЙКА</entry>
+<entry name="!!BACK">Назад</entry>
+<entry name="!!I_1_GETGIFTBUTTON">Бесплатный Подарок
+(&lt;Val1&gt; подарок(ов))</entry>
+<entry name="!!TOURNAMENT_NAME_10">Турнир Чёрных Карт</entry>
+<entry name="!!FLOOP">ФЛУП</entry>
+<entry name="!!TOURNAMENT_NAME_12">Турнир Чёрных Карт</entry>
+<entry name="!!TOURNAMENT_NAME_13">Турнир Чёрных Карт</entry>
+<entry name="!!TOURNAMENT_NAME_14">Турнир Чёрных Карт</entry>
+<entry name="!!TOURNAMENT_NAME_15">Турнир Чёрных Карт</entry>
+<entry name="!!C_0_BUILDDECK">Собрать Колоду</entry>
+<entry name="!!KEY_RING_CHRISTMAS">Праздничный Ключ</entry>
+<entry name="!!SUB_BATTLE"></entry>
+<entry name="!!Sidequest_Marceline_01">Добро пожаловать на Хэллоуинское Событие! У меня для тебя кое-то особенное. Есть у меня одна классная карта Вампира, но она сейчас сильно ленится. Мне нужно, чтобы ты взял её и напомнил, как драться. Просто возьми её в бой 20 раз, она просто должна быть в твоей колоде. Просто, да? И ещё: нужно успеть до конца Хэллоуинского События. Удачи!</entry>
+<entry name="!!D_3_CARDBOX_MAX_REACHED">Место в твоей карточной коробке достигло максимального размера. Ты можешь создать или продать карты, чтобы избавиться от лишних.</entry>
+<entry name="!!F_4_HOWTOPLAYINFO">Добро пожаловать в Войны Колод!
+ 
+Готов выигрывать супер-потрясающие невероятные призы в главном турнире праведности и крутости?
+ 
+Я тоже!
+Вот что такое Войны Колод. Выигрывай Трофеи и получай призы. Проиграть нельзя! Только выигрывать! Так чего ты ждёшь? Инструкций? Ну, это довольно сложно, но я объясню тебе основы.
+ 
+Разные игроки могут использовать разные колоды и применять крутую стратегию и всё такое, так что убедись, что твоя колода круче. Используй Конструктор Колод, чтобы собирать разные колоды и применять хитрую стратегию в ответ, чтобы выбесить их!
+ 
+Чем больше играешь, тем больше выигрываешь. Тебе нужно выиграть как можно больше трофеев, ясно? Можно даже собирать серии побед! Если нервничаешь из-за своих шансов, можешь найти нового соперника, поискав в левом нижнем углу экрана противостояния. Это стоит немного золота, но да ладно!
+ 
+Ты автоматически попадаешь в турнир из 100 человек. Значит, у тебя отличный шанс выиграть! И даже если проиграешь, ты всё равно получишь ништяки!
+ 
+Первый Приз: Чёрная Карта!
+Второй Приз: Легендарные Золотые Карты!
+Третий Приз: Кристаллы!
+Все Остальные: Золото!
+ 
+Понимаешь, о чём я — проиграть нельзя?!
+ 
+Призы можно посмотреть на экране Турнира, в одной из других вкладок-штуковин на этой странице.
+ 
+О! Чуть не забыл: для боя можно использовать любую из твоих колод или персонажей! Но помни, что у тебя всегда должна быть хотя бы одна колода, чтобы защищать свою территорию, потому что другие Воины Карт могут атаковать любую из твоих колод, которая «ВКЛ» в конструкторе колод, пока тебя нет. Ты получаешь ещё больше трофеев, если твоя колода побеждает, пока тебя нет рядом! Да, знаю. Круто, правда?
+ 
+А теперь иди и дерись изо всех сил, надерите задницы и выиграйте трофеи! Во славу!</entry>
+<entry name="!!F_3_FOOTER">Выбирай тщательно! Изменить нельзя!</entry>
+<entry name="!!SERVER_OUT_OF_SYNC_RESTART">Обновление сервера — нажми, чтобы перезагрузить!</entry>
+<entry name="!!DAY">День</entry>
+<entry name="!!Thursday Dungeon">Подземелье Жажды</entry>
+<entry name="!!Chad_Bear_01">Эй, Новичок! Пора на лёд! К несчастью, какой-то болван украл мои коньки. Можешь помочь мне найти все четыре?
+ Найди мои коньки и принеси их мне, и я дам тебе что-то кррууутое.
+ Вперёд, команда!</entry>
+<entry name="!!F_4_HIGHFIVE">Цифровое Дай Пять</entry>
+<entry name="!!Chad_Bear_03">Не очень-то командный игрок, а?
+ Мы проиграли игру, чувак. Да, обидка.
+ Наверное, будет следующий сезон.</entry>
+<entry name="!!FC_EL_FISTO_VICTORY">На этот раз победишь ты...
+Но Эль Фисто вернётся!</entry>
+<entry name="!!PVP_WIN">Победа</entry>
+<entry name="!!SUB_NICE"></entry>
+<entry name="!!YOU_LOSE_YOU_DRANK">Ты проиграл! Ты выпил:</entry>
+<entry name="!!SPELL">Заклинание</entry>
+<entry name="!!SUB_COOL"></entry>
+<entry name="!!TIP_Battle_End_001">Слишком жарко для тебя? Пройди предыдущие квесты, чтобы прокачать Героя и увеличить его характеристики!</entry>
+<entry name="!!Sidequest_Legg_01">Эй ты! Помоги мне, точнее — ногой. Я ждал друга и задремал. Когда проснулся, четыре мои ноги были украдены. Можешь помочь мне их вернуть?</entry>
+<entry name="!!PARTY_HEADER_OBSIDIAN">Фестиваль Обсидиана УЖЕ ИДЁТ!</entry>
+<entry name="!!TIP_Battle_End_005">Существ и Зданий на поле можно заменить картами из руки, но они окажутся в Сбросе.</entry>
+<entry name="!!F_4_SECONDPRIZE">Второй Приз:</entry>
+<entry name="!!PARTY_DESC_SAND">Шанс выпадения существ Песчаного Пляжа в Алгебраическом Сундуке увеличен в 5 раз.
+[FFEA00]В подборке: Грязевой Ангел, Фумми, Песчаный Рыцарь, Сэнди, Затерянный Голем, Пирогциклоп, Песчаная Стена и другие.</entry>
+<entry name="!!PARTY_DESC_HOLIDAY">Ограниченное время Праздничные Существа и Здания в Праздничном Сундуке!
+[FFEA00]В подборке: Горохосупный Блевун, Паладим, Радужный Гном, Шоколадная Стена и другие!</entry>
+<entry name="!!TIP_Battle_End_009">Слишком много карт? Используй кристалл, чтобы увеличить место в инвентаре.</entry>
+<entry name="!!F_4_ComingSoon">Скоро!</entry>
+<entry name="!!PARTY_HEADER_HOLIDAY">Праздничный Фестиваль УЖЕ ИДЁТ!</entry>
+<entry name="!!PARTY_DESC_RARE">Шанс выпадения карт редкости 4 и 5 звёзд в Алгебраическом Сундуке увеличен в 3 раза.
+[FFEA00]Включая существ, здания и заклинания.
+Карты высшего класса, такие как: Кукурузный Лорд, Воадик-Вождь, Матушка Пуховедро, Пирогциклоп, Радужный Блевун и Мариачи, и другие</entry>
+<entry name="!!TIP_Battle_End_010">Если проиграл бой, не бойся использовать кристалл, чтобы воскресить и перетасовать колоду.</entry>
+<entry name="!!Sidequest_VDay_03">Одиноко, так одиноко. Мне так надоело быть одинокой, когда же это кончится? Мы не собрали 12 принцесс вовремя… вздох. Тебе пора идти. Мне нужно побыть одной.</entry>
+<entry name="!!FC_EL_FISTO_ROUND">Раунд &lt;val&gt;</entry>
+<entry name="!!I_1_DAILYGIFT">Ежедневный Подарок</entry>
+<entry name="!!1_TAPANYWHERE">Нажми куда угодно, чтобы начать</entry>
+<entry name="!!A_1_VOICE">ГОЛОС</entry>
+<entry name="!!D_3_RESTORE">ВОССТАНОВИТЬ</entry>
+<entry name="!!A_8_MANIFEST">Манифест: &lt;Val&gt;</entry>
+<entry name="!!1_BUTTON_START">СТАРТ</entry>
+<entry name="!!F_7_HOWOLD">Укажи Свой Возраст</entry>
+<entry name="!!SUB_DEFEND"></entry>
+<entry name="!!Sunday Dungeon">Страшное Подземелье</entry>
+<entry name="!!INSTRUCTIONLABEL_P1WIN">Игрок 1 — Крутой Парень!
+Игрок 2 — Ботан!</entry>
+<entry name="!!ERROR_SELLING_ONE_CARD">Продажа 1 карты оставит меньше {0} карт в инвентаре</entry>
+<entry name="!!TIP_Battle_End_026">Дружки помогают дружкам, так что расскажи своим дружкам о Card Wars. </entry>
+<entry name="!!A_1_LOAD">Загрузить</entry>
+<entry name="!!0_CONNECTING">подключение...</entry>
+<entry name="!!I_5_CALENDARTITLE_XMAS">Йо, это Праздничный Календарь 
+
+С подарками и прочим каждый день!</entry>
+<entry name="!!DAILY_GIFT_CARD">Карта!</entry>
+<entry name="!!TAP_CREATURE_TO_PROTECT">Нажми на существо, чтобы защитить!</entry>
+<entry name="!!Monday_Dungeon_Info">Твои Карты Равнин здесь!</entry>
+<entry name="!!CONFIRM_GATCHACHOOSECHEST_GEMS_NORMAL">Всего {0} кристалл(ов), чтобы открыть! Содержит карты редкостью 1–3 звезды!</entry>
+<entry name="!!A_3_ENTER">Ввести</entry>
+<entry name="!!7_ADDEDTOINVENTORY">Добавлено в твой инвентарь.</entry>
+<entry name="!!FORMAT_SERVER_VERSION">Версия Сервера: {0}</entry>
+<entry name="!!YOU_UNLOCKED">Ты Открыл:</entry>
+<entry name="!!WIN_STREAK">Серия Побед</entry>
+<entry name="!!Monday Dungeon">Подземелье Безумия</entry>
+<entry name="!!PICK_A_CREATURE">Выбери существо.</entry>
+<entry name="!!FORMAT_CURRENT_STATUS">Текущий Статус: {0}</entry>
+<entry name="!!Sunday_Dungeon_Info">Сегодня День 2x Опыта!</entry>
+<entry name="!!SUCCESS_EXCL">Успех!</entry>
+<entry name="!!2_FORCED_UPDATE">Доступна новая версия — нажми, чтобы перейти в магазин!</entry>
+<entry name="!!PARTY_HEADER_PLAINS">Вечеринка Равнин УЖЕ ИДЁТ!</entry>
+<entry name="!!CLEAR">ЧИСТО!</entry>
+<entry name="!!I_0_INFOBAR">Каждый день получай бесплатный подарок из «Ежедневной Коробки Подарков»!</entry>
+<entry name="!!DRINK_UP_DWEEB">Выпивай, ботан!</entry>
+<entry name="!!TIP_Battle_End_002">Получи 3 звезды в уже пройденном квесте, чтобы получить кристалл бесплатно!</entry>
+<entry name="!!TIP_Battle_End_003">Супер-редкие, потрясающе мощные Карты Героев можно найти в Алгебраических Сундуках.</entry>
+<entry name="!!TIP_Battle_End_004">Энергия Сердец восстанавливается со временем. Вернись, когда она наполнится, или используй кристалл!</entry>
+<entry name="!!D_3_CARDBOX_NOT_ENOUGH_GEMS">Недостаточно кристаллов!</entry>
+<entry name="!!TIP_Battle_End_006">Радужных Существ можно ставить на любой ландшафт! Но их характеристики намного ниже.</entry>
+<entry name="!!TIP_Battle_End_007">Нужно больше монет? Продай немного карт или пройди предыдущие квесты, чтобы заработать бабла!</entry>
+<entry name="!!TIP_Battle_End_008">У всех Героев есть уникальная способность, помогающая в бою. Выбирай Героя, который дополняет стратегию твоей колоды.</entry>
+<entry name="!!F_4_TAB_TOPPLAYERS">Глобальный</entry>
+<entry name="!!TYPE_HERE">Введи Здесь</entry>
+<entry name="!!FORMAT_STANDING_ON_LANDSCAPENAME">Стоит на {0}</entry>
+<entry name="!!FC_UPSELL_PRODUCT_DESC">Новейший Сюжет
+​Новые Враги для Боя 
+​Новые Герои, Существа, Заклинания и Здания 
+
+КУПИ СЕЗОННЫЙ ПРОПУСК
+за новые обновления весь год!</entry>
+<entry name="!!FORMAT_CARD_LEVELUP">{0} теперь уровень [FFFF00]{1}</entry>
+<entry name="!!UNDER_MAINTENANCE">НА ТЕХОБСЛУЖИВАНИИ</entry>
+<entry name="!!Saturday Dungeon">Жуткое Подземелье</entry>
+<entry name="!!Friday_Dungeon_Info">Твои Песчаные Карты здесь!</entry>
+<entry name="!!LOCAL_NOTIFICATION_FREE_DAILYGIFT">Ого! Не забудь забрать ежедневный подарок в Card Wars!</entry>
+<entry name="!!KEY_RING_CHRISTMAS_INFO">Супер-особый Праздничный Ключ позволяет открыть Праздничный Сундук!</entry>
+<entry name="!!TIP_Battle_End_011">У способностей Героя есть таймер ходов. Нужно провести несколько ходов в бою, прежде чем её можно применить.</entry>
+<entry name="!!TIP_Battle_End_012">Первое прохождение Квеста Сердец полностью восстановит твою Энергию Сердец!</entry>
+<entry name="!!TIP_Battle_End_013">Атакуй соперников, ставя существ в незащищённые линии. Пустые линии = Прямой Урон</entry>
+<entry name="!!TIP_Battle_End_014">Проходи квесты заново, чтобы создать как можно больше карт в Кузнице. </entry>
+<entry name="!!TIP_Battle_End_015">Время от времени делай перерыв и расслабься! </entry>
+<entry name="!!TIP_Battle_End_016">Меняй всё! Пробуй разные комбинации колод, чтобы опробовать новые стратегии!</entry>
+<entry name="!!TIP_Battle_End_017">Есть 5 видов сундуков. Скелето-сундук роняет Супер-Потрясающий Лут. Он падает только в поздних квестах. Честное слово.</entry>
+<entry name="!!TIP_Battle_End_018">У тебя есть 5 разных колод, которые можно заранее настроить для выбора на экране противостояния. </entry>
+<entry name="!!TIP_Battle_End_019">Ты уже собрал Карту Героя Граф Лемонгрейб? НЕПРИИИИМЛЕЕЕЕМО!</entry>
+<entry name="!!Sidequest_VDay_04">Твоему старине Ледяному Королю снова нужна помощь. Принцессы? Какие принцессы? Никто не сбегал, не понимаю, о чём ты. В общем, есть одна Принцесса, что прячется на уровнях 30 и выше, используй мою карту героя «Ледяной Король: Свидание» снова, чтобы найти её. Скорее, у нас есть время только до конца Валентиновского События.</entry>
+<entry name="!!Sidequest_VDay_05">Превосходно! Она моя, а это твоё — ультра-крутая карта заклинания Одинокие Сердца. Направь своё одиночество, чтобы сокрушить врагов! Уахаха! А теперь проваливай. У меня свидание с Принцессой.</entry>
+<entry name="!!Sidequest_VDay_06">Одиноко, так одиноко. Мне так надоело быть одиноким, когда же это кончится? Мы не собрали принцессу вовремя… вздох. Тебе пора идти. Мне нужно побыть одному.</entry>
+<entry name="!!INSTRUCTIONLABEL_P2WIN">Игрок 2 — Крутой Парень!
+Игрок 1 — Ботан!</entry>
+<entry name="!!I_7_CALENDARCATCHUP">Йо, новый месяц! Ты пропустил &lt;Val1&gt; день(ей)!
+
+Потратить &lt;Val2&gt; кристалл(ов), чтобы забрать главный приз?</entry>
+<entry name="!!SEARCHING">Поиск...</entry>
+<entry name="!!6_NOTIFICATIONS_CURRENTRANK">Текущий Ранг: #</entry>
+<entry name="!!CONTINUE">Продолжить</entry>
+<entry name="!!TIP_Battle_End_020">Ты уже собрал Карту Героя Рикардио, Парень-Сердце? У разных Героев разные способности.</entry>
+<entry name="!!TIP_Battle_End_021">Можно зажать или дважды нажать на карту, чтобы приблизить и рассмотреть её вблизи.</entry>
+<entry name="!!TIP_Battle_End_022">Способность Героя будет мигать, когда готова. У способностей Героя есть таймер ходов. </entry>
+<entry name="!!TIP_Battle_End_023">Заряжай свои бои, открывая Алгебраические Сундуки.</entry>
+<entry name="!!TIP_Battle_End_024">Чем больше звёзд на картах, тем лучше карты. Вот так мы и живём. </entry>
+<entry name="!!TIP_Battle_End_025">Кто знал, что пинать цифровые задницы может быть так выгодно? Проходи квесты заново, чтобы получить больше карт для кузницы.</entry>
+<entry name="!!LOCAL_NOTIFICATION_BEING_ATTACKED">Ты на верном пути к выигрышу той Чёрной Карты в турнире Войн Колод?</entry>
+<entry name="!!TIP_Battle_End_027">Быть никудышным в чём-то — первый шаг к тому, чтобы стать в этом чуть лучше. Попробуй снова, если проиграл раунд. </entry>
+<entry name="!!TIP_Battle_End_028">Ничего страшного в том, чтобы любить Card Wars больше, чем людей. </entry>
+<entry name="!!TIP_Battle_End_029">Золотые Карты редки! Мощны! Ограничены! Уникальны! И их трудно заполучить.</entry>
+<entry name="!!TAP_CONTINUE_TO_ENTER_NEXT_PHASE">Нажми «Продолжить», чтобы перейти к следующей фазе.</entry>
+<entry name="!!7_TOURNAMENTREWARD_1">За достижение ранга &lt;val1&gt; в турнире ты получил &lt;val2&gt;!</entry>
+<entry name="!!7_TOURNAMENTREWARD_2">За достижение ранга &lt;val1&gt; в турнире ты выиграл &lt;val2&gt;!</entry>
+<entry name="!!F_4_TAB_PRIZES">Призы</entry>
+<entry name="!!7_TOURNAMENTREWARD_4">За достижение ранга &lt;val1&gt; в турнире ты выиграл &lt;val2&gt; [ffff99]Монет[ffffff]!</entry>
+<entry name="!!TAP_BATTLE_TO_ENTER_BATTLE_PHASE">Нажми кнопку Боя, чтобы войти в Фазу Боя.</entry>
+<entry name="!!F_4_WINSA">побед</entry>
+<entry name="!!A_0_REDEEMCODE">Активировать
+Код</entry>
+<entry name="!!E_0_INFOBAR">Нажми на сундук, который хочешь открыть!</entry>
+<entry name="!!PARTY_HEADER_SAND">Тусовка Песчаного Пляжа УЖЕ ИДЁТ!</entry>
+<entry name="!!TIP_Battle_End_030">Можно использовать Золотые Монеты, чтобы открывать Крутые Сундуки!</entry>
+<entry name="!!TIP_Battle_End_031">Каждый ход ты получаешь на одно очко магии больше, пока не наберёшь 10 очков.</entry>
+<entry name="!!TIP_Battle_End_032">Открой Премиум-Сундук во время Картной Вечеринки, и может выпасть что-то супер-потрясающее. Может быть!</entry>
+<entry name="!!TIP_Battle_End_033">Уже получил свои золотые карты? У них особые характеристики, отличные от обычных карт. </entry>
+<entry name="!!TIP_Battle_End_034">Другие игроки могут бросить тебе вызов в Войнах Колод, пока тебя нет. Настрой Колоду в Конструкторе Колод. Ты выигрываешь больше очков, если твоя колода побеждает других игроков.</entry>
+<entry name="!!TIP_Battle_End_035">Помни, ты выигрываешь больше очков, если твоя колода побеждает других игроков в Войнах Колод. Но ты никогда не теряешь очки! Круто, правда? Во славу! </entry>
+<entry name="!!TIP_Battle_End_036">Чёрные Обсидиановые Карты можно получить только в Войнах Колод! </entry>
+<entry name="!!TIP_Battle_End_037">Когда ты вступаешь в турнир Войн Колод, у тебя 1 шанс из 100 попасть наверх!</entry>
+<entry name="!!TIP_Battle_End_038"></entry>
+<entry name="!!GOOGLEPLAY">Google Play</entry>
+<entry name="!!BUTTON_OFF">ВЫКЛ</entry>
+<entry name="!!CREATURE">Существо</entry>
+<entry name="!!BUTTON_ACCEPT">Принять</entry>
+<entry name="!!FAILED">Не Удалось</entry>
+<entry name="!!SUB_CARD"></entry>
+<entry name="!!PICK_A_BUILDING_TO_MOVE">Выбери здание для перемещения!</entry>
+<entry name="!!1C_PP">Политика Конфиденциальности</entry>
+<entry name="!!PICK_A_BUILDING">Выбери здание.</entry>
+<entry name="!!CALENDAR_TITLE">Приключенческий Календарь: 25 Дней Card Wars</entry>
+<entry name="!!WINS">Победы:</entry>
+<entry name="!!D_MARKET_NOTENOUGHGEMS">У тебя нет магических кристаллов!
+Направляемся в Магазин Магических Кристаллов...</entry>
+<entry name="!!A_1_ICLOUDLOAD">Загрузить из iCloud</entry>
+<entry name="!!F_4_CURRENTRANK">Ты сейчас на ранге</entry>
+<entry name="!!PVP_DEFEAT">Поражение</entry>
+<entry name="!!I_1_REMAININGTIME_CALENDAR">Оставшееся Время: </entry>
+<entry name="!!ERROR_PAUSE_DISABLED_DURING_TUTORIAL">Извини, нельзя выйти, пока мы пытаемся тебя кое-чему научить.</entry>
+<entry name="!!I_3_YOUGOTTHIS">Ты получил &lt;Val1&gt;</entry>
+<entry name="!!TAP_CREATURE_TO_BOOST_ATTACK">Нажми на существо, чтобы усилить его атаку!</entry>
+<entry name="!!MORE_STARS_MEANS_MORE_RARE">Больше Звёзд — Больше Редкости!</entry>
+<entry name="!!SUB_ATTACK"></entry>
+<entry name="!!GOLDCARD">Золотая Карта</entry>
+<entry name="!!A_7_REDEEMDUPE">Код Уже Активирован</entry>
+<entry name="!!COINS_EARNED">Заработано Монет: </entry>
+<entry name="!!CONNECTIVITYCONTROLLER_TESTMESSAGE">Идёт проверка</entry>
+<entry name="!!TAP_CREATURE_TO_FLOOP">Нажми на существо, чтобы использовать его способность Флуп!</entry>
+<entry name="!!ERROR_SELLING_DECK_CARD">Эту карту нельзя продать, она используется в колоде {0}.</entry>
+<entry name="!!PARTY_HEADER_CORN">Кукурузный Карнавал УЖЕ ИДЁТ!</entry>
+<entry name="!!FORMAT_COINS">{0} Монет</entry>
+<entry name="!!E_0_HALLOWEENCHEST">Хэллоуинский Сундук</entry>
+<entry name="!!BLACKCARD">Чёрная Карта</entry>
+<entry name="!!BUTTON_AGEGATERESET">Возраст</entry>
+<entry name="!!F_4_PRIZEINFO_1">Атакуй любого игрока, чтобы войти в Турнир! Выигрывай Трофеи, чтобы подниматься в рейтинге!</entry>
+<entry name="!!F_4_PRIZEINFO_2">Ты выиграешь приз на любом уровне, а итоговое количество трофеев определит твой приз! И в твоей сетке всегда только 100 игроков!</entry>
+<entry name="!!F_4_PRIZEINFO_3">Каждый Турнир длится две недели.</entry>
+<entry name="!!TAP_CREATURE_TO_BOOST_DEFENSE">Нажми на существо, чтобы усилить его защиту!</entry>
+<entry name="!!BESTSTREAK">Лучшая Серия: x</entry>
+<entry name="!!STORE">МАГАЗИН</entry>
+<entry name="!!LOAD_LOCAL_OR_SERVER">Ого! Локальные данные и данные сервера рассинхронизированы. Что будем делать?</entry>
+<entry name="!!F_3_INVALIDNAME">Недопустимое имя! Попробуй другое</entry>
+<entry name="!!A_6_REDEEMFAIL">Недействительный Код</entry>
+<entry name="!!TUTORIAL_TEXT_E9">ПОДСКАЗКА: У некоторых квестов есть секретные пути. Зарабатывай звёзды, чтобы открыть их.</entry>
+<entry name="!!I_5_CALENDARTITLE_GENERIC">Йо, это Просто Ещё Один Месяц 
+
+Но подарки всё равно есть, йо!</entry>
+<entry name="!!GAMECENTER">Game Center</entry>
+<entry name="!!DISCARD_PILE_PLAYER">Сброс Игрока</entry>
+<entry name="!!D_3_DESC1">Использовать 1 кристалл, чтобы</entry>
+<entry name="!!D_3_DESC2">Использовать 1 кристалл, чтобы увеличить размер карточного инвентаря на 5</entry>
+<entry name="!!I_0_INFOBAR_HALLOWEEN">Каждый день получай бесплатный подарок из «Призрачной Тыквы»!</entry>
+<entry name="!!D_MARKET_INVENTORYINCREASE">Твой инвентарь увеличен на [FFFF00]5
+[FFFFFF]Теперь твой инвентарь: [FFFF00]{0}</entry>
+<entry name="!!PARTY_HEADER_SWAMP">Болотная Вечеринка УЖЕ ИДЁТ!</entry>
+<entry name="!!FORMAT_DECK_CONTAINS_MORE_THAN">В колоде {0} больше {1} карты «{2}»</entry>
+<entry name="!!LANDSCAPE_SWAMP">Бесполезное Болото</entry>
+<entry name="!!F_5_NotEnoughCoin">У тебя не хватает [FFFF00]Монет[FFFFFF], чтобы искать соперника.</entry>
+<entry name="!!CONNECTIONFAILED">Соединение Не Установлено</entry>
+<entry name="!!F_6_UnderMaintenance">Бац-бам в жестянке! Гусь сейчас подсчитывает награды! Загляни через пару минуток!</entry>
+<entry name="!!ERROR_NO_CARDS_SELECTED_TO_SELL">Ты не выбрал карты для продажи!</entry>
+<entry name="!!PLEASE_WAIT">Пожалуйста, подожди...</entry>
+<entry name="!!Sidequest_Fezz_02">Не верю! Ты нашёл все мои шляпы! О спасибо. Вот твоя награда, заслуженная.</entry>
+<entry name="!!F_4_TOPPRIZE">Главный Приз:</entry>
+<entry name="!!A_1_SAVE">Сохранить</entry>
+<entry name="!!ERROR_GATCHACHOOSECHEST_GEMS">Всего {0} кристалл(ов), чтобы открыть. Рискнём?</entry>
+<entry name="!!Tuesday_Dungeon_Info">Твои Кукурузные Карты здесь!</entry>
+<entry name="!!6_NOTIFICATIONS_PREVIOUSRANK">Предыдущий Ранг: #</entry>
+<entry name="!!Sidequest_MarshallLee_02">Ты вернулся, и всё готово? Дай посмотрю, что вышло. Хм… Так круто. Невероятно, карта КЭНДИР достигла полного потенциала. Вот это горячая штучка! Поздравляю, это классная карта.</entry>
+<entry name="!!F_4_HOWTOPLAY">Как Играть</entry>
+<entry name="!!F_4_THIRDPRIZE">Дополнительный Приз:</entry>
+<entry name="!!GEM">Кристалл</entry>
+<entry name="!!D_MARKET_STAMINARESTORED">Сердечки восстановлены!</entry>
+<entry name="!!FORMAT_CREATE_NEW_USER">Создание нового пользователя «{0}»</entry>
+<entry name="!!COMPUTING_REWARDS">Подсчёт наград</entry>
+<entry name="!!LANDSCAPE_NICELANDS">Прекрасные Земли</entry>
+<entry name="!!COINS">Монеты</entry>
+<entry name="!!A_1_ICLOUDSAVE">Сохранить в iCloud</entry>
+<entry name="!!RETRY">Повторить</entry>
+<entry name="!!PICK_AN_EMPTY_LANE">Выбери пустую линию.</entry>
+<entry name="!!Tuesday Dungeon">Подземелье Ужаса</entry>
+<entry name="!!D_3_ADD">ДОБАВИТЬ</entry>
+<entry name="!!CLOUD_LOAD_FAIL">Загрузка из облака не удалась.</entry>
+<entry name="!!E_0_PREMIUMCHEST">Алгебраический
+Сундук</entry>
+<entry name="!!6_NOTIFICATIONS_ENDSIN">заканчивается через</entry>
+<entry name="!!PARTY_DESC_HALLOWEEN">Ограниченное время Хэллоуинские Существа и Здания в Хэллоуинском Сундуке!
+[FFEA00]В подборке: неуловимые Вампиры Синих Равнин и Песчаных Земель, Призрачный Бык, Полтерциклоп и другие.</entry>
+<entry name="!!Friday Dungeon">Подземелье Страха</entry>
+<entry name="!!SOCIAL_SIGN_IN_FAILED_RETRY">Проблема со входом. Повторить?</entry>
+<entry name="!!CLOUD_SAVE_FAIL">Сохранение в облако не удалось.</entry>
+<entry name="!!F_4_RANK2_10">#2 - #10</entry>
+<entry name="!!LOADING">Загрузка...</entry>
+<entry name="!!TROPHIES">Трофеи</entry>
+<entry name="!!PICK_A_TARGET">Выбери цель.</entry>
+<entry name="!!Sidequest_CuteKing_01">Победа будет нашей! Нас не остановит! Найди нам оружие, и я пощажу твою жизнь и щедро награжу. А теперь ступай и найди нам ОРУЖИЕ! Много-много ОРУЖИЯ!</entry>
+<entry name="!!Sidequest_CuteKing_02">Чудесно! Ты принёс моё ОРУЖИЕ. Победа наша! Скоро мы будем купаться в кишках наших врагов. О, вот твоя награда. А теперь проваливай, путь к победе тебя не включает.</entry>
+<entry name="!!A_3_DESC">Введи Код для Активации:</entry>
+<entry name="!!I_6_NICEYOUGOT">Ништяк!
+Ты получил</entry>
+<entry name="!!Sidequest_VDay_01">Не поможешь своему старине Ледяному Королю? Мне нужна Валентинка. Мне нужно свидание.
+Мне нужны принцессы, 12 штук. Взамен я дам тебе эту ультра-редкую карту. Понял всё? Ты должен использовать мою карту героя «Ледяной Король: Свидание», чтобы поймать 12 принцесс, и у нас есть время только до конца Валентиновского События. Шевелись!
+</entry>
+<entry name="!!CARDS">Карты</entry>
+<entry name="!!E_1_INFOBARB">Открытие Алгебраического сундука обойдётся в 3 кристалла. Рискнём?</entry>
+<entry name="!!E_1_INFOBAR">Открытие Крутого сундука обойдётся в 200 монет. Рискнём?</entry>
+<entry name="!!FORMAT_CLIENT_VERSION">Версия Клиента: {0}</entry>
+<entry name="!!CONFIRM_GATCHACHOOSECHEST_GEMS_PREMIUM">Всего {0} кристалл(ов), чтобы открыть! Карты редкостью от 3 звёзд гарантированы! </entry>
+<entry name="!!_NOT_ENOUGH_MAX_STAMINA">Не хватает сердечек, малышок!</entry>
+<entry name="!!Thursday_Dungeon_Info">Твои Хлопковые Карты здесь!</entry>
+<entry name="!!F_0_INFOBAR">Нажми, чтобы продолжить квест или бросить вызов игрокам онлайн!</entry>
+<entry name="!!INSTRUCTIONLABEL_P2BATTLE">Фаза Боя Игрока 2!</entry>
+<entry name="!!ERROR_SELLING_MULTIPLE_CARDS">Продажа {0} карт оставит меньше {1} карт в инвентаре</entry>
+<entry name="!!CONNECTIVITYCONTROLLER_TESTSTATUS">Проверка возможностей сетевого соединения.</entry>
+<entry name="!!PARTY_HEADER_NICELANDS">Юбилей Прекрасных Земель УЖЕ ИДЁТ!</entry>
+<entry name="!!6_NOTIFICATIONS_NOUPDATES">Нет Обновлений</entry>
+<entry name="!!A_1_RESOLUTION_LOW">Низкое</entry>
+<entry name="!!DAYS_CLAIMED">Дней Получено</entry>
+<entry name="!!CONFIRM_GATCHACHOOSECHEST_COINS_PREMIUM">Всего {0} монет, чтобы открыть! Здесь можно найти карты, пригодные для создания!  </entry>
+<entry name="!!SUB_ALGEBRAIC"></entry>
+<entry name="!!DUNGEON_INFOPANEL">Информация о подземелье будет здесь!</entry>
+<entry name="!!FC_EL_FISTO_Card">Шанс Алгебраической Редкой Карты</entry>
+<entry name="!!DAILY_GIFT_GEMS">Кристаллы!</entry>
+<entry name="!!STATUS_READY">ГОТОВ</entry>
+<entry name="!!I_1_REMAININGTIME">Бесплатный подарок через:</entry>
+<entry name="!!Sidequest_Newt_02b">БОТЫ! БОТЫ! Они мне нужны. Держи эти Кристаллы и оставь меня с моими новыми БОТАМИ.</entry>
+<entry name="!!PARTY_HEADER_GOLD">Золотой Гала-УЖЕ ИДЁТ!</entry>
+<entry name="!!6_NOTIFICATIONS_RANK_CHANGED">Твой ранг изменился.</entry>
+<entry name="!!CARD">карта</entry>
+<entry name="!!D_5_RESTORESTAMINA">ВОССТАНОВИТЬ ЭНЕРГИЮ СЕРДЕЦ</entry>
+<entry name="!!TOURNAMENT_NAME_11">Турнир Чёрных Карт</entry>
+<entry name="!!I_3_WONSOMETHING">Ух ты! Ты что-то выиграл!</entry>
+<entry name="!!6_NOTIFICATIONS_DECKATTACK">Твою Колоду атаковали!</entry>
+<entry name="!!Sidequest_PartyGod_01">Эй! Ты тусуешь? Я да. Я тусую жёстко. Ты тоже можешь, но с пустыми руками нельзя. Иди найди ЛЁД, и будешь тусить со мной. Ты ещё тут, братан? ЛЁД, достань, живо!  Аууу!!! (воет)</entry>
+<entry name="!!D_0_GEMS">Кристаллы</entry>
+<entry name="!!D_MARKET_STAMINAFULL">Твои сердечки уже полны!
+Кристаллы не потрачены.</entry>
+<entry name="!!CLOUD_SAVE_SUCCESS">Успешно сохранено в облако.</entry>
+<entry name="!!Sidequest_MarshallLee_01">О привет. Как дела? Глянь-ка, нашёл эту потрясающую карту Вампира. Круто, да? Ну, она становится much much cooler, когда полностью проснётся, думаешь справишься? Мне нужно, чтобы ты напомнил этому малышу, как драться. Выстави его и выиграй 20 матчей, сможешь? И ещё одно: закончи до конца Хэллоуинского События, иначе малыш никогда не раскроет свой полный потенциал.</entry>
+<entry name="!!BUTTON_CRAFT">Создать</entry>
+</entries>

@@ -6,9 +6,9 @@ public class LocalizationSettings : ScriptableObject
 {
 	public string[] sheetTitles;
 
-	public bool useSystemLanguagePerDefault = true;
+	public bool useSystemLanguagePerDefault = false;
 
-	public string defaultLangCode = "EN";
+	public string defaultLangCode = "RU";
 
 	public static LanguageCode GetLanguageEnum(string langCode)
 	{
