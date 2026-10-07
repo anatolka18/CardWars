@@ -1,32 +1,57 @@
-# Card Wars
-A port of the "Adventure Time: Card Wars" mobile game to PC.
+# Card Wars — русская локализация
 
-Floop the Pig! It's Adventure Time CARD WARS! Play the game inspired by the Adventure TIme episode, 'Card Wars'! Summon creatures and cast spells to battle your way to victory.
+Порт мобильной игры «Adventure Time: Card Wars» на ПК с полной русской локализацией. Форк [shishkabob27/CardWars](https://github.com/shishkabob27/CardWars) с переведёнными текстами.
 
+Флупни Свинью! Это Adventure Time: CARD WARS! Играй в игру, вдохновлённую эпизодом «Войны Карт» мультсериала «Время Приключений»! Призывай существ и накладывай заклинания, чтобы прокладывать путь к победе в бою.
 
-CARD COMBAT!
+## Карточный бой!
 
-Command an army of awesome warriors, including Husker Knights, Cool Dog the Immortal Maize Walker, and even the Pig to destroy your opponent's forces! Place towers and cast spells to unleash ultimo attacks
+Командуй армией потрясающих воинов: Хаскер-Рыцарями, Крутым Псом по прозвищу Бессмертный Кукурузоход и даже Свиньей, чтобы уничтожить силы противника! Ставь башни и накладывай заклинания, чтобы выпускать ультимативные атаки.
 
-CUSTOM DECKS!
+## Настраиваемые колоды!
 
-Collect new cards to customize your deck for each opponent. Level up your creatures, spells, and towers, or fuse them together to make your cards even more powerful.
+Собирай новые карты, чтобы настраивать колоду под каждого противника. Прокачивай существ, заклинания и башни или объединяй их, чтобы сделать карты ещё мощнее.
 
-HIGH STAKES BATTLES!
+## Бои с высокими ставками!
 
-Think you've got what it takes to be crowned a Cool Guy, or will you end up drinking from the Dweeb cup? Play as Finn Jake, BMO, Princess Bubblegum, Marceline, Flame Princess and more as you wind your way through the Land of Ooo!
+Думаешь, ты достоин звания Крутого Парня, или в итоге будешь пить из кубка Ботана? Играй за Финна, Джейка, БМО, Принцессу Бубльгум, Марселин, Огненную Принцессу и многих других, пробираясь сквозь Страну Оо!
 
-It's CARD WARS! 
+Это CARD WARS!
 
-## Download
+## Скачать
 
-* [Latest Windows Version](https://github.com/shishkabob27/CardWars/releases/latest/download/CardWars-Windows.zip)
-* Mac Version - Coming Soon
-* Linux Version - Coming Soon
+* [Страница релиза `v_RU`](https://github.com/anatolka18/CardWars/releases/tag/v_RU) — если прямая ссылка не открылась, скачай архив оттуда
 
-## Images
+## Как запустить
+
+1. Распакуй `CardWars-Windows.zip` в любую папку.
+2. Внутри должны лежать рядом три объекта: `CardWars.exe`, `UnityPlayer.dll` и папка `CardWars_Data`.
+3. Запусти `CardWars.exe`.
+
+> Не перемещай `CardWars.exe` отдельно от `CardWars_Data` и `UnityPlayer.dll` — игра не найдёт ассеты и не запустится.
+
+## Русская локализация
+
+В этой сборке русский язык включён по умолчанию. Переведено:
+
+* интерфейс, кнопки, системные сообщения и сообщения об ошибках;
+* имена и описания существ, заклинаний, зданий, героев и карт;
+* диалоги и катсцены обеих сюжетных кампаний («Фионна и Кейк» и «Валентинка»);
+* обучение и всплывающие подсказки;
+* квесты, награды, описания локаций и условия заданий.
+
+Перевод выполнен по шести таблицам (`Menu`, `Names`, `Descriptions`, `NIS`, `Scenes`, `Tutorial`) в формате `RU_*.bytes` и активируется через `LocalizationSettings.asset` (`defaultLangCode: RU`).
+
+### Известные ограничения
+
+* **Озвучка остаётся английской** — это аудиофайлы, а не текст; субтитры и реплики катсцен переведены.
+* Часть заголовков и логотипов, «вшитых» в картинки карт и спрайты, не переводится текстовыми таблицами — это растровые изображения, а не текст.
+
+## Об этом форке
+
+Это форк [shishkabob27/CardWars](https://github.com/shishkabob27/CardWars) с добавленной русской локализацией. Оригинальный порт, движок, код и все игровые ассеты (модели, текстуры, звук, персонажи «Времени Приключений») принадлежат их правообладателям. Данный репозиторий распространяет изменения локализации и сборки; скачивая билд, ты получаешь фанатский патч поверх оригинальной игры.
+
+## Изображения
+
 ![CardWars_r8d9H393Tp](https://i.imgur.com/cXUolY0.jpg)
 ![CardWars_F7nDRbIxel](https://i.imgur.com/N3BH326.jpg)
-
-## Contributing
-Card Wars uses Unity 2017.4.40f1. No other dependencies are required.
